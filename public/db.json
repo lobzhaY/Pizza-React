@@ -1,0 +1,124 @@
+{
+    "pizzas": [
+        {
+            "id": 0,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2020/07/14/super_pepperoni_small-min.png",
+            "name": "Супер Пепперони",
+            "types": [0, 1],
+            "sizes": [26, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/barbecue.png",
+            "name": "Барбекю",
+            "types": [0],
+            "sizes": [26, 30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2019/07/03/bavarchkaya_small.png",
+            "name": "Баварская",
+            "types": [1],
+            "sizes": [26],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2022/04/18/gavayskaya_new_smalll.png",
+            "name": "Гавайская",
+            "types": [0, 1],
+            "sizes": [30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2020/09/18/Hatnyaya_small.png",
+            "name": "Хатняя",
+            "types": [0, 1],
+            "sizes": [26, 30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/vetchina_i_griby.png",
+            "name": "Ветчина и грибы",
+            "types": [1],
+            "sizes": [40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/margarita.png",
+            "name": "Маргарита",
+            "types": [0, 1],
+            "sizes": [26, 30],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/ovoshchnaya.png",
+            "name": "Овощная",
+            "types": [0],
+            "sizes": [30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/toskana.png",
+            "name": "Тоскана",
+            "types": [0],
+            "sizes": [26, 30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2020/04/21/eksravaganzza_small-min.png",
+            "name": "Экстраваганzzа",
+            "types": [1],
+            "sizes": [26, 30, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 10,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2021/08/05/Beef_BBQ_small-min.png",
+            "name": "Биф BBQ",
+            "types": [0, 1],
+            "sizes": [26, 30],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 11,
+            "imageUrl": "https://images.dominos.by/media/dominos/osg/api/2018/09/12/provence.png",
+            "name": "Прованс",
+            "types": [0, 1],
+            "sizes": [26, 40],
+            "price": 803,
+            "category": 0,
+            "rating": 4
+        }
+    ]
+}
