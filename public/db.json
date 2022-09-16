@@ -7,7 +7,7 @@
             "types": [0, 1],
             "sizes": [26, 40],
             "price": 803,
-            "category": 0,
+            "category": 3,
             "rating": 4
         },
         {
@@ -16,9 +16,9 @@
             "name": "Барбекю",
             "types": [0],
             "sizes": [26, 30, 40],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 685,
+            "category": 4,
+            "rating": 3
         },
         {
             "id": 2,
@@ -26,9 +26,9 @@
             "name": "Баварская",
             "types": [1],
             "sizes": [26],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 350,
+            "category": 1,
+            "rating": 2
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
             "name": "Гавайская",
             "types": [0, 1],
             "sizes": [30, 40],
-            "price": 803,
+            "price": 630,
             "category": 0,
             "rating": 4
         },
@@ -46,9 +46,9 @@
             "name": "Хатняя",
             "types": [0, 1],
             "sizes": [26, 30, 40],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 475,
+            "category": 2,
+            "rating": 1
         },
         {
             "id": 5,
@@ -56,9 +56,9 @@
             "name": "Ветчина и грибы",
             "types": [1],
             "sizes": [40],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 906,
+            "category": 3,
+            "rating": 1
         },
         {
             "id": 6,
@@ -66,9 +66,9 @@
             "name": "Маргарита",
             "types": [0, 1],
             "sizes": [26, 30],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 359,
+            "category": 4,
+            "rating": 3
         },
         {
             "id": 7,
@@ -76,9 +76,9 @@
             "name": "Овощная",
             "types": [0],
             "sizes": [30, 40],
-            "price": 803,
+            "price": 468,
             "category": 0,
-            "rating": 4
+            "rating": 2
         },
         {
             "id": 8,
@@ -86,8 +86,8 @@
             "name": "Тоскана",
             "types": [0],
             "sizes": [26, 30, 40],
-            "price": 803,
-            "category": 0,
+            "price": 523,
+            "category": 3,
             "rating": 4
         },
         {
@@ -96,9 +96,9 @@
             "name": "Экстраваганzzа",
             "types": [1],
             "sizes": [26, 30, 40],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 596,
+            "category": 1,
+            "rating": 5
         },
         {
             "id": 10,
@@ -106,9 +106,9 @@
             "name": "Биф BBQ",
             "types": [0, 1],
             "sizes": [26, 30],
-            "price": 803,
-            "category": 0,
-            "rating": 4
+            "price": 235,
+            "category": 1,
+            "rating": 5
         },
         {
             "id": 11,
@@ -116,9 +116,9 @@
             "name": "Прованс",
             "types": [0, 1],
             "sizes": [26, 40],
-            "price": 803,
+            "price": 841,
             "category": 0,
-            "rating": 4
+            "rating": 2
         }
     ]
 }
